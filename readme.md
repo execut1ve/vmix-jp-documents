@@ -1,4 +1,4 @@
-n# vmix-jp-documents
+# vmix-jp-documents
 
 vMix (https://vmix.com/) の日本語ドキュメントを作ることを目的としたプロジェクトです。
 
