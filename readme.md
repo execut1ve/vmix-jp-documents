@@ -4,8 +4,8 @@ vMix (https://vmix.com/) の日本語ドキュメントを作ることを目的�
 
 ## Webサイトについて
 
-- Honkit(https://github.com/honkit/honkit)を利用しています。
-- Firebase Hosting(https://firebase.google.com/)を利用して公開しています。
+- Honkit (https://github.com/honkit/honkit) を利用しています。
+- Firebase Hosting (https://firebase.google.com/) を利用して公開しています。
   * URL: https://vmix-jp-documents.web.app/
 
 ## 編集について
